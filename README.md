@@ -1,2 +1,5 @@
 # html-teacozy
-Project just for studies
+A coffee shop main page
+
+## Goal
+Studies/ tests on flexbox
